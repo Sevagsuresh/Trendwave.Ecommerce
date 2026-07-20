@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="trendware" src="https://github.com/user-attachments/assets/29559fac-341e-4add-935f-a9884ee9e4e8" />
 🛍️ Trendware – E-Commerce Web Application
 
 Trendware is a modern full-stack e-commerce web application designed to provide a smooth online shopping experience with secure authentication, product management, and order handling.
